@@ -33,8 +33,7 @@ additionally:
 8. form a roll of the dough and divide it into 5 equal pieces
 9. braid the brioche. I know its hard at first to figure out how it works, therefore I will give you some help in this picture:
 
-![schema how to braid]()
-
+![schema how to braid](https://github.com/LuiseFreese/thatkitchenprincess/blob/main/media/5strandbraid.gif)
 
 Once you are at this point, only cross the end of all strands that are next to each other, 2 times. I gave it a nice heartshape afterwards :-)
 10. carefully brush the brioche with egg yolk
