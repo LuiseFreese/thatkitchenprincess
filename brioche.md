@@ -36,6 +36,7 @@ additionally:
 ![schema how to braid](https://github.com/LuiseFreese/thatkitchenprincess/blob/main/media/5strandbraid.gif)
 
 Once you are at this point, only cross the end of all strands that are next to each other, 2 times. I gave it a nice heartshape afterwards :-)
+
 11. carefully brush the brioche with egg yolk
 12. put the brioche into the oven, bake at 180° C for 30-40 minutes
 13. Take it out of the oven, resist the urge to cut it and try now, it should first cool down. 
