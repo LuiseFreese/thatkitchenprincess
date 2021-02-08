@@ -6,28 +6,28 @@ This fingerlickin delicious Brioche is perfect for sunday mornings, or afternoon
 
 ## You need
 
-*for the dough*
+### for the dough
 
-500 g flour
-7g dry yeast
-250 ml milk 3,5%
-about 80g warm and soft butter
-50 g sugar
-1 pinch of salt
+* 500 g flour
+* 7g dry yeast
+* 250 ml milk 3,5%
+* about 80g warm and soft butter
+* 50 g sugar
+* 1 pinch of salt
 
-*For the filling* 
+### For the filling
 
-200g marzipan
-100-200g grated almonds
-2 egg white
-1 tablespoon sugar
-2 sips rum (make sure it's good one, better do quality control 😇)
+* 200g marzipan
+* 100-200g grated almonds
+* 2 egg white
+* 1 tablespoon sugar
+* 2 sips rum (make sure it's good one, better do quality control 😇)
 
-*For the icing*
+### For the icing
 
-1 tablespoon lemon juice
-5 tablespoons powdered sugar
-a little water
+* 1 tablespoon lemon juice
+* 5 tablespoons powdered sugar
+* a little water
 
 ## How to do it
 
@@ -59,6 +59,8 @@ a little water
 
 16. prepare the icing by mixing lemon juice and powder sugar. If needed, add some water
 17. Take the brioche out of the oven and spread the icing on it, let cool down
+
+*Bon Appetit*
 
 
 
