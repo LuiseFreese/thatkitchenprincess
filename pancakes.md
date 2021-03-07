@@ -6,17 +6,16 @@ super fluffy pancakes for breakfast in no time? Here we go :-)
 
 ## What you need
 
-200 ml milk
-2 TS lemon juice
-1 egg
-50 g melted butter
-250 g flour
-7 g baking powder
-7 g vanilla sugar
-50 g sugar (I like the brown way more, but do what makes you happy)
-1 pinch of salt
-
-some butter to grease a pan
+* 200 ml milk
+* 2 TS lemon juice
+* 1 egg
+* 50 g melted butter
+* 250 g flour
+* 7 g baking powder
+* 7 g vanilla sugar
+* 50 g sugar (I like the brown way more, but do what makes you happy)
+* 1 pinch of salt
+* some butter to grease a pan
 
 ## How to make pancakes
 
