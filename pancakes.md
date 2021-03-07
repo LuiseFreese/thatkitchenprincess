@@ -2,8 +2,6 @@
 
 super fluffy pancakes for breakfast in no time? Here we go :-) 
 
-![pancakes](https://github.com/LuiseFreese/thatkitchenprincess/blob/main/media/pancakes.png)
-
 ## What you need
 
 * 200 ml milk
@@ -22,7 +20,7 @@ super fluffy pancakes for breakfast in no time? Here we go :-)
 * Add lemon juice to the milk and let its sit for 2 minutes (we are making buttermilk this way)
 * Whisk egg and melted butter with the milk
 * Whisk all dry ingredients
-* Now whisk everything but the berries
+* Now whisk everything
 * Let some butter into a pan and heat it until butter gresed the pan evenly
 * Put some dough into your pan and bake the pancake for about 90 seconds
 * flip it, bake for another 30 seconds 
